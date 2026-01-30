@@ -27,24 +27,31 @@ This project is an end-to-end Data Science ecosystem that delivers actionable bu
 The portfolio demonstrates a full-stack data lifecycle: from rigorous **Data Cleaning** and **Exploratory Data Analysis (EDA)** to **Unsupervised Machine Learning**.
 
 ---
+### Key Modules & Domain Insights
+### Healthcare Analysis
+Focus: Patient condition distribution and resource optimization.
 
-##  Key Modules & Domain Insights
+Integrity: Verified 0 missing values across a 16-column dataset to ensure clinical accuracy.
 
-###  Healthcare Analysis
-* **Focus:** Patient condition distribution and resource optimization.
-* **Integrity:** Verified **0 missing values** across a 16-column dataset to ensure clinical accuracy.
+### Sports Analytics (Machine Learning)
+Model: K-Means Clustering (Unsupervised Learning).
 
-###  Sports Analytics (Machine Learning)
-* **Model:** **K-Means Clustering** (Unsupervised Learning).
-* **Outcome:** Segmented player performance into objective tiers to identify undervalued talent ("Moneyball" strategy).
+Outcome: Segmented player performance into objective tiers to identify undervalued talent ("Moneyball" strategy).
 
-###  Financial Market Analysis
-* **Indicators:** 50-day and 200-day **Moving Averages (MA)**.
-* **Value:** Smoothed price volatility to identify structural market trends and crossover signals.
+### Financial Market Analysis
+Indicators: 50-day and 200-day Moving Averages (MA).
 
-###  Sales & E-commerce Trends
-* **Sales:** Time-series resampling to isolate seasonal revenue peaks.
-* **E-commerce:** Marketing channel attribution modeling to determine ROI across SEO, Social, and Direct traffic.
+Value: Smoothed price volatility to identify structural market trends and crossover signals.
+
+### Sales Trend Analysis
+Methodology: Time-series resampling and periodic aggregation.
+
+Outcome: Isolated seasonal revenue peaks and calculated monthly growth rates to guide inventory forecasting.
+
+### E-commerce Analytics (New Module)
+Focus: Marketing channel attribution and user engagement correlations.
+
+Outcome: Quantified ROI across SEO, Social, and Direct traffic; identified a high correlation between session duration and total purchase value to optimize the conversion funnel.
 
 ---
 
