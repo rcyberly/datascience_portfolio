@@ -1,0 +1,11 @@
+Transaction_ID,Customer_ID,Product_Category,Purchase_Amount,Age,Gender,Source,Time_Spent_mins
+T1001,C501,Electronics,1200,28,Male,Google,15
+T1002,C502,Apparel,450,34,Female,Instagram,22
+T1003,C503,Home,800,45,Female,Direct,10
+T1004,C504,Electronics,1500,22,Male,Google,30
+T1005,C505,Apparel,300,31,Male,Facebook,12
+T1006,C506,Fitness,600,29,Female,Instagram,25
+T1007,C507,Home,1200,52,Male,Direct,18
+T1008,C508,Electronics,2200,35,Female,Google,45
+T1009,C509,Apparel,150,24,Male,Facebook,8
+T1010,C510,Fitness,950,40,Female,Direct,35

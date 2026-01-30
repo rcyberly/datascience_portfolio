@@ -1,0 +1,8 @@
+Date,Product,Category,Price,Quantity,Revenue_M
+2025-01-01,Smartphone,Electronics,600,10,0.006
+2025-01-02,Laptop,Electronics,1200,5,0.006
+2025-01-03,T-Shirt,Fashion,20,50,0.001
+2025-01-04,Jeans,Fashion,50,20,0.001
+2025-01-05,Coffee Maker,Home,80,15,0.0012
+2025-01-06,Desk Lamp,Home,30,30,0.0009
+2025-01-07,Headphones,Electronics,150,12,0.0018

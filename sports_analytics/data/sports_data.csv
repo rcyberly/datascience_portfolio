@@ -1,0 +1,11 @@
+Player_ID,Player_Name,Team,Matches_Played,Goals,Assists,Pass_Accuracy,Distance_Covered_km,Yellow_Cards,Market_Value_M
+101,Lionel Messi,Inter Miami,25,22,15,89.5,210.4,1,35.0
+102,Cristiano Ronaldo,Al Nassr,28,24,8,82.1,230.5,4,15.0
+103,Kylian Mbappe,Real Madrid,22,19,10,85.4,245.2,2,180.0
+104,Erling Haaland,Man City,24,28,5,78.9,205.1,3,180.0
+105,Kevin De Bruyne,Man City,18,5,18,91.2,198.7,2,60.0
+106,Mohamed Salah,Liverpool,27,18,12,83.5,240.8,0,55.0
+107,Jude Bellingham,Real Madrid,23,12,11,88.7,260.1,5,150.0
+108,Vinicius Jr,Real Madrid,21,15,9,84.2,235.4,4,160.0
+109,Harry Kane,Bayern Munich,26,27,7,81.5,220.3,1,100.0
+110,Bukayo Saka,Arsenal,25,14,13,86.1,250.6,2,120.0
